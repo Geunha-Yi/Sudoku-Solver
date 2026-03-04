@@ -2,7 +2,6 @@
   <div class="container">
     <header class="header">
       <h1>스도쿠 솔버</h1>
-      <p class="subtitle">기초 ~ 최후의 수단까지 전체 기법 지원 · Vue</p>
     </header>
 
     <main class="main">
@@ -40,9 +39,6 @@
       </div>
     </main>
 
-    <footer class="footer">
-      <p>기초(가득찬유닛, 드러난/숨겨진 하나) · 초급(포인팅, 클레이밍, 부분집합, 물고기) · 중급(윙, 체인, 핀드피쉬, BUG) · 고급(ALS, Sue de Coq) · 최후(강제 체인)</p>
-    </footer>
   </div>
 </template>
 
